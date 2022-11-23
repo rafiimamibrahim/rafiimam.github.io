@@ -1,0 +1,51 @@
+{
+    width: 97%;
+    margin: auto;
+    position: relative;
+    text-align: left;
+    height: 70px;
+    background: white;
+    margin-top: 0%;
+}
+
+nav ul{
+    list-style: none;
+    
+}
+
+nav ul li{
+    display:  inline-block;
+    padding: 15px ;
+}
+nav ul li a{
+    text-decoration: none;
+    line-height: 30px;
+    text-transform: uppercase;
+    padding: 8px;
+    color: black;
+    
+}
+
+nav ul li a:hover{
+    background: brown;
+}
+
+.syah{
+    box-shadow: 3px 2px 1px;
+    color: black;
+}
+
+.reni{
+    color: ;
+    font-size: 12px;
+}
+.lesi{
+    color: blue;
+    font-size: 7px;
+}
+.reno{
+    font-size: 9px;
+}
+.rosi{
+    font-size: 9px;
+}
